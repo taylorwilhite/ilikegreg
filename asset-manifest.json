@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ilikegreg/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ilikegreg/static/js/main.708d15be.chunk.js",
+    "main.js.map": "/ilikegreg/static/js/main.708d15be.chunk.js.map",
+    "runtime-main.js": "/ilikegreg/static/js/runtime-main.acafacd0.js",
+    "runtime-main.js.map": "/ilikegreg/static/js/runtime-main.acafacd0.js.map",
+    "static/js/2.319ba9d0.chunk.js": "/ilikegreg/static/js/2.319ba9d0.chunk.js",
+    "static/js/2.319ba9d0.chunk.js.map": "/ilikegreg/static/js/2.319ba9d0.chunk.js.map",
+    "static/js/3.301acc81.chunk.js": "/ilikegreg/static/js/3.301acc81.chunk.js",
+    "static/js/3.301acc81.chunk.js.map": "/ilikegreg/static/js/3.301acc81.chunk.js.map",
+    "index.html": "/ilikegreg/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ilikegreg/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.319ba9d0.chunk.js.LICENSE.txt": "/ilikegreg/static/js/2.319ba9d0.chunk.js.LICENSE.txt",
+    "static/media/logo.e51b5d73.jpg": "/ilikegreg/static/media/logo.e51b5d73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acafacd0.js",
+    "static/js/2.319ba9d0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.708d15be.chunk.js"
+  ]
+}
